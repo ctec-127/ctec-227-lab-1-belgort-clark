@@ -1,7 +1,5 @@
 # CTEC 227 - Lab 1
 
-## I HATE THIS LAB!
-
 ## Details
 
 This lab will have you build four basic PHP pages. 
