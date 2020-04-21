@@ -1,5 +1,7 @@
 # CTEC 227 - Lab 1
 
+## I HATE THIS LAB!
+
 ## Details
 
 This lab will have you build four basic PHP pages. 
@@ -71,9 +73,9 @@ On the destroy_all_session.php page do the following:
 
 ## Grading Rubic
 
-| Item | Full Marks | Partial Marks | No Marks |
-|:--|:--|:--|:--|
-|create_session.php| 25 | 13 | 0 |
-|read_session.php| 25 | 13 | 0 |
-|destroy_session.php| 25 | 13 | 0 |
-|destroy_all_session.php| 25 | 13 | 0 |
+| Item                    | Full Marks | Partial Marks | No Marks |
+| :---------------------- | :--------- | :------------ | :------- |
+| create_session.php      | 25         | 13            | 0        |
+| read_session.php        | 25         | 13            | 0        |
+| destroy_session.php     | 25         | 13            | 0        |
+| destroy_all_session.php | 25         | 13            | 0        |
